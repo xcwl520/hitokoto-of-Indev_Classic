@@ -12,7 +12,7 @@
 
 因为我是笨蛋不会写php,所以修改一言作者则需要修改**hitokoto.php**的代码
 
-# 鸣谢 Thinks
+# 鸣谢 Thanks
 参考了网上的代码，并用AI扩展了功能
 https://developer.aliyun.com/article/1593435
 
